@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "夏祭り恋慕う",
   "base_artist": "=LOVE",
-  "createdAt": "2026-03-27T13:17:54.059135Z",
+  "createdAt": "2026-03-28T11:09:06.590911Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,7 +35,7 @@
       "artist": "=LOVE",
       "has_synced": true,
       "path": "select/localdb_01_夏祭り恋慕う_=LOVE.lrc",
-      "repo_name": "8VBDO8ZQyDo"
+      "repo_name": "StTkKH5w-z4"
     },
     {
       "id": "localdb_2",
@@ -44,7 +44,7 @@
       "artist": "=LOVE",
       "has_synced": true,
       "path": "select/localdb_02_夏祭り恋慕う_=LOVE.lrc",
-      "repo_name": "zN0LrulOIAg"
+      "repo_name": "8VBDO8ZQyDo"
     },
     {
       "id": "localdb_3",
@@ -53,7 +53,7 @@
       "artist": "=LOVE",
       "has_synced": true,
       "path": "select/localdb_03_夏祭り恋慕う_=LOVE.lrc",
-      "repo_name": "iKhbjP4JB3o"
+      "repo_name": "zN0LrulOIAg"
     },
     {
       "id": "localdb_4",
@@ -62,6 +62,15 @@
       "artist": "=LOVE",
       "has_synced": true,
       "path": "select/localdb_04_夏祭り恋慕う_=LOVE.lrc",
+      "repo_name": "iKhbjP4JB3o"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "夏祭り恋慕う",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_05_夏祭り恋慕う_=LOVE.lrc",
       "repo_name": "R6ZpYYfsMsA"
     }
   ]
